@@ -30,6 +30,7 @@ weather-api/
 ├── .env.example
 ├── .gitignore
 └── README.md
+```
 
 ## How It Works
 
